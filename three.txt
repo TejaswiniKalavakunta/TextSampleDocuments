@@ -1,0 +1,30 @@
+﻿Agile methodologies are a set of principles and practices for software development that emphasize flexibility, collaboration, and customer satisfaction. Here are some key aspects:
+
+
+1. **Iterative Development**: Agile projects are broken down into small, manageable units called iterations or sprints, typically lasting 1-4 weeks. Each iteration results in a potentially shippable product increment.
+
+
+2. **Collaboration**: Agile methodologies emphasize collaboration among cross-functional teams, including developers, testers, and business stakeholders. Daily stand-up meetings (Scrums) help ensure constant communication and alignment.
+
+
+3. **Customer Involvement**: Frequent feedback from customers and stakeholders is a cornerstone of Agile. This ensures the product meets user needs and allows for adjustments based on feedback.
+
+
+4. **Adaptability**: Agile methodologies promote flexibility and adaptability. Changes in requirements, even late in development, are welcomed and accommodated.
+
+
+5. **Continuous Improvement**: Agile encourages continuous improvement through regular retrospectives, where teams reflect on what went well and what can be improved in the next iteration.
+
+
+6. **Principles and Manifesto**: The Agile Manifesto outlines the core values and principles of Agile methodologies. It values individuals and interactions, working software, customer collaboration, and responding to change over processes, tools, comprehensive documentation, contract negotiation, and following a plan.
+
+
+Popular Agile methodologies include:
+
+
+- **Scrum**: Focuses on sprints, daily stand-ups, and roles such as Product Owner, Scrum Master, and Development Team.
+- **Kanban**: Visualizes work using a Kanban board and emphasizes continuous delivery and limiting work in progress.
+- **Extreme Programming (XP)**: Emphasizes technical practices such as test-driven development, pair programming, and continuous integration.
+
+
+These methodologies help teams deliver high-quality software quickly and efficiently, with the flexibility to adapt to changing requirements.
